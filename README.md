@@ -1,7 +1,7 @@
 # Hamburger-Menu-CSSProject
 
 ## Overview 
-This hamburger menu toggles between the hamburger and the full menu, which slides in. There is a hover effect over the menu options. 
+This is a CSS project. The objective was to build a hamburger menu that toggles between the hamburger and the full menu, which slides in and to add a hover effect over the menu options. 
 
 ## Tech Stack
 CSS, HTML
